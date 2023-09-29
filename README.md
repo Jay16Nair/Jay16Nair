@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay16nair&label=Profile%20views&color=0e75b6&style=flat" alt="jay16nair" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jay16nair" target="blank"><img src="https://img.shields.io/twitter/follow/jay16nair?logo=twitter&style=for-the-badge" alt="jay16nair" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jay16nair" target="blank"><img src="https://img.shields.io/twitter/follow/jay16nair?logo=twitter&style=for-the-badge" alt="jay16nair" /></a> </p> 
 
 - 🌱 I’m currently learning **HTML and CSS**
 
